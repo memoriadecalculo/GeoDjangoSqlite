@@ -1,0 +1,2 @@
+# GeoDjangoSqlite
+GeoDjango using Sqlite
