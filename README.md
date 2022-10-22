@@ -17,6 +17,7 @@ As described at [Techiediaries](https://href.li/?https://www.techiediaries.com/d
     sudo apt-get install binutils libproj-dev
     sudo apt-get install gdal-bin libgdal-dev
     sudo apt-get install python3-gdal
+    sudo apt-get install libsqlite3-mod-spatialite
 
 Follow the instructions described at the [Official GeoDjango Tutorial](https://href.li/?https://docs.djangoproject.com/pt-br/2.2/ref/contrib/gis/tutorial/).
 
